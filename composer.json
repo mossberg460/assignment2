@@ -1,0 +1,11 @@
+{
+    "name": "martin/lab05",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Mossberg460",
+            "email": "Martin.Mossberg@hotmail.com"
+        }
+    ],
+    "require": {}
+}

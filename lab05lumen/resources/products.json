@@ -1,0 +1,24 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "World of Warcraft",
+			"price": 99
+		},
+		{
+			"id": 2,
+			"title": "Call of Duty 2",
+			"price": 49
+		},
+		{
+			"id": 3,
+			"title": "Minecraft",
+			"price": 9
+		},
+		{
+			"id": 4,
+			"title": "FEAR 2",
+			"price": 19
+		}
+	]
+}
